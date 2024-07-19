@@ -13,7 +13,12 @@ pip install selenium
 下载链接： https://googlechromelabs.github.io/chrome-for-testing/#stable
 
 ### 4. 在python编辑器中使用selenium模块
-#### selenium教程：  
+本脚本用于爬取 https://www.diandian.com/ 某些appID的 标题、副标题、评分、评分数、排名。  
+使用前需在dataParse文件中修改appIDList的值，该列表为所需爬取的appID。
+
+
+
+## selenium教程：  
 
 新版本： https://blog.csdn.net/kobepaul123/article/details/128796839?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172128378816800188598793%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172128378816800188598793&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-128796839-null-null.142^v100^pc_search_result_base4&utm_term=selenium&spm=1018.2226.3001.
 
